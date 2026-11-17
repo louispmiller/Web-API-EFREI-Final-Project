@@ -1,6 +1,5 @@
 # Web-API-EFREI-Final-Project
-No time for additional details or focusing on conventional commits :/ Normally a bit better but whatever.
-
+Note: Franchement pas eu du tout suffisament de temps. J'avais également des mails urgents concernant l'alternance mais même sans, je ne vois pas comment on est censé faire tout ce projet sans utiliser d'IA. Je suis là pour apprendre, pas pour vibe coder.
 
 My Social Networks API
 
