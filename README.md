@@ -1,2 +1,2 @@
 # Web-API-EFREI-Final-Project
-no time
+No time for additional details or focusing on conventional commits :/ Normally a bit better but whatever.
